@@ -8,6 +8,7 @@ namespace HiGitPlamen
         static void Main()
         {
             Console.WriteLine("Git,hello!");
+            Console.WriteLine("Plamen Git");
         }
     }
 }
